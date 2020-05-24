@@ -61,6 +61,7 @@ a:hover {
 .no-style {
   list-style: none;
   padding-left: 0;
+  font: 26px/1 'PT Sans', sans-serif;
 }
 
 .no-style li {
